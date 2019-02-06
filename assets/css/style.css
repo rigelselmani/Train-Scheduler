@@ -1,0 +1,11 @@
+.jumbotron{
+	background-color: rgba(0, 0, 255, 0.377);
+    min-height: 20%;
+    background-repeat: no-repeat;
+    color: rgba(28, 68, 201, 0.486);
+    size: 40px;
+
+}
+.text-center{
+    font-size: 50px;
+}
